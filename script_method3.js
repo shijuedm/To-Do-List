@@ -28,6 +28,8 @@ function createListElement() {
 	//END STRIKETHROUGH
 
 
+
+	
 	// START ADD DELETE BUTTON
 	var dBtn = document.createElement("button");
 	dBtn.appendChild(document.createTextNode("X"));
